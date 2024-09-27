@@ -1,0 +1,651 @@
+.firstNav{
+    width: 100%;
+    height: 60px;
+}
+#logo{
+    width: 115px;
+    height: 40px;
+    position: absolute;
+    left: 145px;
+    margin-top: 6px;
+}
+#searchBar{
+    position: absolute;
+    left: 280px;
+    height: 30px;
+    width: 550px;
+    margin-top: 11px;
+    border: 0.1px solid rgb(223, 220, 220);
+    border-radius: 4px;
+    outline: none;
+}
+#searchIcon{
+    position: absolute;
+    left: 290px;
+    top: 25px;
+    font-size: 22px;
+    color: gray;
+}
+#drop{
+    position: absolute;
+    left:1150px;
+    width: ;
+    height: 30px;
+    margin-top: 11px;
+    border: none;
+    font-size: 15px;
+
+}
+#sBtn{
+    position: absolute;
+    left: 1270px;
+    top: 5px;
+    margin-top: 15px;
+    border-radius: 4px;
+    background-color: rgb(236, 47, 113);
+    color: white;
+    border: none;
+    width: 70px;
+    padding: 5px;
+}
+#menuBar{
+    position: absolute;
+    left: 1360px;
+    font-size: 30px;
+    margin-top: 11px;
+    color: rgb(155, 154, 154);
+}
+.secondNav{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(241, 236, 236);
+    margin-top:1px;
+    margin-bottom: -8px;
+    
+}
+.leftSideul{
+    position: absolute;
+    left: 95px;
+    top: 63px;
+    
+}
+.leftSideul a{
+    text-decoration:none;
+    color: black;
+
+}
+.leftSideul li{
+    display: inline;
+    padding:7px;
+}
+.rightSideul{
+    position: absolute;
+    top: 63px;
+    right: 140px;
+    
+}
+
+.rightSideul li{
+    display: inline;
+    padding: 7px;
+}
+
+.rightSideul a{
+    text-decoration: none;
+    color: black;
+}
+.movie{
+    width: 100%;
+    height: 1010px;
+    background-color: rgb(241, 236, 236);
+    margin-top:-20px;
+    margin-bottom: -8px;
+}
+#recommend{
+    margin-top: 0px;
+    position: absolute;
+    left: 140px;
+    font-size: 26px;
+}
+#see a{
+    color: rgb(242, 45, 98);
+    position: absolute;
+    right: 140px;
+    text-decoration: none;
+}
+.movieList{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+.movieList li{
+    display: inline;
+    
+    
+}
+.movieList img{
+    width: 225px;
+    height: 390px;
+    
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.movieDisc{
+    position: absolute;
+    left: 100px;
+    top: 530px;
+}
+.movieDisc li {
+    display: inline;
+    color: black;
+    font-size: 19px;
+    margin-right: 30px;
+    
+}
+.movieDisc a{
+    text-decoration: none;
+}
+#d3{
+    padding-left: 17px;
+}
+#d4{
+    padding-left: 160px;
+}
+#d5{
+    padding-left: 94px;
+}
+.movieDisc2 li{
+    display: inline;
+    color: black;
+    font-size: 16px;
+    padding-right: 150px;
+}
+.movieDisc2{
+    position: absolute;
+    left: 100px;
+    top: 560px;
+}
+.movieDisc2 a{
+    text-decoration: none;
+}
+#d23{
+    margin-left:-13px;
+    
+}
+#d24{
+    margin-left: 5px;
+}
+#d25{
+    margin-left: -38px;
+}
+#image{
+    position: absolute;
+    top: 660px;
+    left: 140px;
+    width: 82.5%;
+    
+}
+#best{
+    position: absolute;
+    top: 790px;
+    left: 140px;
+    font-size: 25px;
+}
+.eventImg li{
+    display: inline;
+
+}
+.eventImg img{
+    width: 223px;
+    height: 223px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+}
+.eventImg ul{
+    position: absolute;
+    left: 100px;
+    top: 830px;
+    margin-left: -17px;
+}
+.purpleBox{
+    height: 670px;
+    background-color: #2b3149;
+}
+#playImg{
+    position: relative;
+    left: 140px;
+    top: 20px;
+    width: 80%;
+    height: 100px;
+}
+.purpleHead h3,p{
+    position: relative;
+    left: 140px;
+    top: 10px;
+    color: white;
+}
+
+.purpleBox h3{
+    font-size: 26px;
+}
+.purpleBox p{
+    margin-top: -26px;
+}
+.purpleImg{
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+
+.purpleImg li{
+    display: inline;
+
+}
+.purpleImg img{
+    width: 223px;
+    height: 370px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.purpleDisc ul{
+    position: relative;
+    left: 30px;
+}
+.purpleDisc li{
+    display: inline;
+    padding: 20px;
+    padding-left: 70px;
+    
+}
+.purpleDisc a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+}
+#p2{
+    margin-left: 55px;
+}
+#p3{
+    margin-left: -10px;
+}
+#p4{
+    margin-left: 67px;
+}
+.purpleDisc2 ul{
+    position: relative;
+    left: 100px;
+    top: -10px;
+}
+.purpleDisc2 li{
+    display: inline;
+    
+}
+.purpleDisc2 a{
+    text-decoration:none;
+    color: white;
+    font-size: 17px;
+
+}
+#pD2{
+     margin-left: 200px;
+}
+#pD3{
+    margin-left: 193px;
+}
+#pD4{
+    margin-left: 196px;
+}
+#pD5{
+    margin-left: 200px;
+}
+#yourMusic{
+    position: relative;
+    left: 140px;
+    font-size: 26px;
+    margin-top: 40px;
+}
+/*#sEe{
+    position: relative;
+    top: 1200px;
+    right: 140px;
+    
+    text-decoration: none;
+}*/
+.yourMovieImg{
+    position: relative;
+    left: 100px;
+
+}
+.yourMovieImg li{
+    display: inline;
+}
+.yourMovieImg img{
+    width: 223px;
+    height: 370px;
+    margin-right: 28px;
+    border-radius: 8px;
+    margin-top: -15px;
+}
+.yourMusic1{
+    width: 223px;
+}
+.yourMusic1 a{
+    text-decoration: none;
+    color: black;
+
+}
+.yourMusic1 ul{
+    position: relative;
+    left: 100px;
+    top: -8px;
+}
+#band{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+#band1{
+    font-size: 17px;
+    color: rgb(188, 184, 184);
+    text-decoration: none;
+}
+.yourMusic2{
+    width: 223px;
+}
+.yourMusic2 a{
+    text-decoration: none;
+    color: black;
+
+}
+.yourMusic2 ul{
+    position: relative;
+    left: 357px;
+    top: -88px;
+}
+.yourMusic3{
+    width: 223px;
+}
+.yourMusic3 a{
+    text-decoration: none;
+    color: black;
+
+}
+.yourMusic3 ul{
+    position: relative;
+    left: 610px;
+    top: -188px;
+}
+.yourMusic4{
+    width: 223px;
+}
+.yourMusic4 a{
+    text-decoration: none;
+    color: black;
+
+}
+.yourMusic4 ul{
+    position: relative;
+    left: 865px;
+    top: -310px;
+}
+.yourMusic5{
+    width: 223px;
+}
+.yourMusic5 a{
+    text-decoration: none;
+    color: black;
+
+}
+.yourMusic5 ul{
+    position: relative;
+    left: 1122px;
+    top: -410px;
+}
+#outdoor{
+    position: relative;
+    left: 140px;
+    top: -350px;
+    font-size: 26px;
+}
+.outdoorImg{
+    position: relative;
+    left: 85px;
+    top: -365px;
+}
+.outdoorImg li{
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.outdoorImg img{
+    width: 223px;
+    height: 370px;
+    border-radius: 8px;
+}
+.outdoorDisc{
+    width: 223px;
+    position: relative;
+    left: 100px;
+    top: -370px;
+}
+.outdoor2{
+    position: relative;
+    top: -100px;
+    left: 255px;
+}
+.outdoor3{
+    position: relative;
+    top: -200px;
+    left: 515px;
+}
+.outdoor4{
+    position: relative;
+    top: -300px;
+    left: 773px;
+}
+.outdoor5{
+    position: relative;
+    top: -400px;
+    left: 1028px;
+}
+.last{
+    height: 1000px;
+    background-color: #333338;
+    position: relative;
+    top: -700px;
+}
+#lastImg{
+    position: relative;
+    left: 125px;
+    top: 15px;
+}
+.last button{
+    color: white;
+    background-color: rgb(236, 47, 113);
+    position: relative;
+    left: 130px;
+    top: -12px;
+    height: 40px;
+    font-size: 17px;
+    width: 170px;
+
+}
+.lastSec1{
+    height: 120px;
+    background-color: #404043;
+}
+.lastSecImg{
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+.lastSec1 li{
+    display: inline;
+    
+}
+.lastSec1 a{
+    color: rgb(122, 121, 121);
+}
+#customer{
+    font-size: 70px;
+}
+#customer:hover{
+    color: white;
+}
+#ticket{
+    font-size: 70px;
+}
+#ticket:hover{
+    color: white;
+}
+#post{
+    font-size: 70px;
+}
+#post:hover{
+    color: white;
+}
+#ticket{
+    margin-left: 350px;
+}
+#post{
+    margin-left: 350px;
+}
+.lastSecDisc{
+    position: relative;
+    left: 245px;
+}
+.lastSecDisc li{
+    display: inline;
+    
+}
+.lastSecDisc a{
+    text-decoration: none;
+    font-size: 12px;
+    
+}
+#resend{
+    margin-left: 255px;
+}
+#resend:hover{
+    color: white;
+}
+#subscribe{
+    margin-left: 225px;
+}
+#subscribe:hover{
+    color: white;
+}
+#twen:hover{
+    color: white;
+}
+#movieNow1{
+    color: rgb(174, 170, 170);
+    font-size: 14px;
+}
+#movieNow2{
+    font-size: 13px;
+}
+#movieNow2 a{
+    text-decoration: none;
+    color: rgb(140, 137, 137);
+}
+.upcoming{
+    margin-top: 35px;
+}
+#upcoming1{
+    color: rgb(174, 170, 170);
+    font-size: 14px;
+}
+#upcoming2{
+    font-size: 13px;
+}
+#upcoming2 a{
+    text-decoration: none;
+    color: rgb(140, 137, 137);
+}
+.moviesBy{
+    margin-top: 35px;
+}
+#moviesBy1{
+    color: rgb(174, 170, 170);
+    font-size: 14px;
+}
+#moviesBy2{
+    font-size: 13px;
+}
+#moviesBy2 a{
+    text-decoration: none;
+    color: rgb(140, 137, 137);
+}
+.moviesLang{
+    margin-top: 35px;
+}
+#moviesLang1{
+    color: rgb(174, 170, 170);
+    font-size: 14px;
+}
+#moviesLang2{
+    font-size: 13px;
+}
+#moviesLang2 a{
+    text-decoration: none;
+    color: rgb(140, 137, 137);
+}
+.sportsE{
+    margin-top: 35px;
+}
+#sportsE1{
+    color: rgb(174, 170, 170);
+    font-size: 14px;
+}
+#sportsE2{
+    font-size: 13px;
+}
+#sportsE2 a{
+    text-decoration: none;
+    color: rgb(140, 137, 137);
+}
+#last3{
+    width: 90%;
+    margin-top: 70px;
+    margin-left: 75px;
+}
+#insta{
+    position: relative;
+    left: 640px;
+    top: 30px;
+}
+#y{
+    position: relative;
+    left: 645px;
+    top: 34px;
+}
+#x{
+    position: relative;
+    left: 640px;
+    top: 34px;
+}
+#fb{
+    position: relative;
+    left: -850px;
+    top: 92px;
+}
+#pint{
+    position: relative;
+    left: 650px;
+    top: 35px;
+}
+#linkdin{
+    position: relative;
+    left: 655px;
+    top: 35px;
+}
+#copy{
+    width: 90%;
+    position: relative;
+    left: 75px;
+    top: 60px;
+
+}
